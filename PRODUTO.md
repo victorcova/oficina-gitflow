@@ -1,3 +1,3 @@
 # Catálogo do Produto
-* Status: Em Desenvolvimento
+* Status: Versão Homologada e Estável (Release v1.0.0)
 * Funcionalidade: Tabela de Preços Adicionada.
